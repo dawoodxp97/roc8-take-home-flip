@@ -1,7 +1,15 @@
+import Home from "./Components/Home";
+import { FilterStatesProvider } from "./context/FilterContext";
+import { SortProvider } from "./context/SortContext";
+
 function App() {
   return (
     <div className="App">
-      Hello World
+      <FilterStatesProvider>
+        <SortProvider>
+          <Home />
+        </SortProvider>
+      </FilterStatesProvider>
     </div>
   );
 }

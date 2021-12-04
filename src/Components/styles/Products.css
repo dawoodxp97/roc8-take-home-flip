@@ -1,0 +1,20 @@
+.product_item {
+  height: 18rem;
+  width: 15rem;
+  display: flex;
+  flex-direction: column;
+  margin-left: 0.5rem;
+  margin-right: 0.5rem;
+  margin-top: 1rem;
+  justify-content: space-between;
+  border: 3px solid green;
+  border-radius: 0.5rem;
+  padding: 2px;
+}
+.product_item > img {
+  height: 10rem;
+  width: 100%;
+}
+.product_item > p {
+  margin: 0;
+}

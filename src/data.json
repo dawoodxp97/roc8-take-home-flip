@@ -1,0 +1,76 @@
+{
+  "products": [
+    {
+      "name": "Woolen Beanie Cap",
+      "brand": "MSE Fashion",
+      "price": "231",
+      "image": "https://rukminim1.flixcart.com/image/580/696/kulk9zk0/cap/e/o/k/free-mens-winter-beanie-mse-fashion-original-imag7znspczxxxxf.jpeg?q=50",
+      "sizes": ["S", "M"],
+      "ideal": "Men"
+    },
+    {
+      "name": "Printed Full Sleeve Men Sweatshirt",
+      "image": "https://rukminim1.flixcart.com/image/580/696/kvsfhjk0/sweatshirt/q/p/x/l-tblhdfulmasksweat-lion-tripr-original-imag8m7tue66jg9t.jpeg?q=50",
+      "brand": "TRIPR",
+      "price": "289",
+      "sizes": ["S", "M", "L", "XL"],
+      "ideal": "Men"
+    },
+    {
+      "name": "Full Sleeve Men Sweatshirt, Printed",
+      "image": "https://rukminim1.flixcart.com/image/580/696/kt39jm80/sweatshirt/m/4/z/l-tngrblhdfulmasksweat-d36-tripr-original-imag6gkynbhaaszh.jpeg?q=50",
+      "brand": "TRIPR",
+      "price": "389",
+      "sizes": ["S", "M", "L", "XL"],
+      "ideal": "Men"
+    },
+    {
+      "name": "Full Sleeve Solid Men Quilted Jacket",
+      "brand": "Breil By Fort Collins",
+      "image": "https://rukminim1.flixcart.com/image/580/696/kqgyhe80/jacket/n/j/s/m-12131fk-breil-by-fort-collins-original-imag4h2jez9y9gmv.jpeg?q=50",
+      "price": "789",
+      "sizes": ["M", "L", "XL"],
+      "ideal": "Men"
+    },
+    {
+      "name": "Full Sleeve Colorblock Men Padded Jacket",
+      "brand": "Breil By Fort Collins",
+      "image": "https://rukminim1.flixcart.com/image/880/1056/kr9jafk0/jacket/6/p/r/m-1286-fk-breil-by-fort-collins-original-imag5387cywggymt.jpeg?q=50",
+      "price": "1489",
+      "sizes": ["S", "L"],
+      "ideal": "Men"
+    },
+    {
+      "name": "Woven Men Cap with Neck Scarf",
+      "image": "https://rukminim1.flixcart.com/image/880/1056/kw6pw280/cap/t/1/x/free-1350mwc-blu-001-alomos-original-imag8xbyh3udp2xa.jpeg?q=50",
+      "brand": "Fstyler",
+      "price": "212",
+      "sizes": ["S", "M", "L", "XL"],
+      "ideal": "Men"
+    },
+    {
+      "name": "Woven Warm Cap",
+      "image": "https://rukminim1.flixcart.com/image/432/518/ki6bgcw0-0/cap/1/n/z/free-blue-men-cap-with-neck-scarf-amormente-original-imafyf2yzdcjfqrj.jpeg?q=70",
+      "brand": "Fstyler",
+      "price": "112",
+      "sizes": ["M", "L", "XL"],
+      "ideal": "Men"
+    },
+    {
+      "name": "Striped Women Round Neck Multicolor T-Shirt",
+      "image": "https://rukminim1.flixcart.com/image/880/1056/kltryq80/t-shirt/t/9/v/l-36397-0010-levi-s-original-imagyveptxesfjyb.jpeg?q=50",
+      "brand": "LEVI'S",
+      "price": "1258",
+      "sizes": ["L", "XL"],
+      "ideal": "Women"
+    },
+    {
+      "name": "Casual Butterfly Sleeves Top",
+      "image": "https://rukminim1.flixcart.com/image/880/1056/k3ncakw0pkrrdj/top/z/c/s/l-mt192-oomph-original-imafmje2kgzhqhuy.jpeg?q=50",
+      "brand": "LEVI'S",
+      "price": "858",
+      "sizes": ["S", "L", "XL"],
+      "ideal": "Women"
+    }
+  ]
+}
